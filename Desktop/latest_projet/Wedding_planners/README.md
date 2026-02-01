@@ -10,15 +10,7 @@ Offering a standardized pricing system to ensure fair wages
 Providing digital contracts and payment tracking for job security
 Enabling reviews and ratings to build trustworthy reputations
 
-# Group Number: 19
-# Group Members: 
-#### Amit Prakash Yadav, Email ID - 2023lm70101@wilp.bits-pilani.ac.in, Registration number - 2023lm70101
-#### Afrin R , Email ID - 2023lm70104@wilp.bits-pilani.ac.in, Registration number - 2023lm70104
-#### Tesmia Siby, Email ID - 2023lm70102@wilp.bits-pilani.ac.in, Registration number - 2023lm70102
+ 
+#### Amit Prakash Yadav,
 
-# Software engineering roles taken up:
-### User researcher - Amit/Tesmia
-### Technical analyst - Amit
-### Programmer - Amit
-### Tester - Afrin
-### PM - Tesmia
+
